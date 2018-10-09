@@ -14,10 +14,10 @@ class ImpactHubTab extends Component {
             <div className="border contentContainer shadow-sm roundedp-2 mb-2 p-2">
               <img src="./images/CodeView/ImpactHubTab/l2.jpg" className="float-left mt-2 col-6" />
               <p>
-                Currently I am working with a team to develope an application for Impact Hub, Minneapolis.
+                Currently I am working with a team to develop an application for Impact Hub, Minneapolis.
               </p>
               <p>
-                Impact Hub is a global organizat with over 100 locations. They are a co-working space that focuses on serving "mission-based" organizations and businesses.
+                Impact Hub is a global organization with over 100 locations. They are a co-working space that focuses on serving "mission-based" organizations and businesses.
               </p>
               <p>
                 The application we are developing will use the <b>Cobot</b> api, allowing members to check-in and out as they use the space.

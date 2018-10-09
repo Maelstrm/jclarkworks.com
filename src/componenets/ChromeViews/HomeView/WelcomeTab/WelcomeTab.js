@@ -45,7 +45,7 @@ class WelcomeTab extends Component {
           </div>
           <div className="card p-1 mt-2 rounded  shadow-sm">
             <span>
-              I enjoy making thing, and love being part of the <b>end-to-end lifecycle</b> of digital products and services.
+              I enjoy making things, and love being part of the <b>end-to-end lifecycle</b> of digital products and services.
           </span>
           </div>
         </div>
