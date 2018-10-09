@@ -1,0 +1,16 @@
+.designIcon {
+    padding: 5px;
+    background: white;
+    filter: drop-shadow(1px 1px 2px #00000056);
+}
+
+.processIcon {
+    padding: 20px;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    filter: drop-shadow(1px 1px 2px #00000056);
+}
+
+.designIcon-container {
+
+}

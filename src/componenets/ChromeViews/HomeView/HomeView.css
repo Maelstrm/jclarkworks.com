@@ -1,0 +1,28 @@
+.chromeView {
+    width: 100%;
+}
+
+.imageDiv {
+    display: inline;
+}
+
+.allExperience-2 {
+    float: left;
+}
+.allExperience-1 {
+    float: left;
+}
+.selfiePic {
+    float: left;
+    filter: drop-shadow(1px 1px 1px rgba(0, 0, 5, 0.25));
+    margin: 10px;
+    margin-top: 0px;
+    margin-left: 0px;
+}
+
+.selfiePic-2 {
+    float: right;
+    filter: drop-shadow(1px 1px 1px rgba(0, 0, 5, 0.25));
+    margin-top: 0px;
+    margin-left: 0px;
+}

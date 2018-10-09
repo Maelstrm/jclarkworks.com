@@ -1,0 +1,30 @@
+.chromeView {
+    height: 100%;
+}
+
+.connectIcons {
+    font-size: 5.5em;
+    margin: auto;
+    filter: drop-shadow(2px 2px 1px #4444dd);
+}
+
+.contactIconContainer {
+    margin-top: 2%;
+    height: 100%;
+}
+
+.connectEmail {
+    color: rgb(231, 4, 4);
+}
+
+.connectTwitter {
+    color: #00aced;
+}
+
+.connectLinkedIn {
+    color: rgb(8, 96, 143);
+}
+
+.connectTumblr {
+    color: #34526f;
+}

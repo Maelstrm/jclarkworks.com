@@ -1,0 +1,300 @@
+h1 {
+    font-size: 2.5em;
+}
+h2 {
+    font-size: 1.5em;
+}
+h3 {
+    font-size: 1em;
+}
+
+hr {
+ margin-top: 5px;
+ margin-bottom: 5px;
+}
+
+.pageTitle {
+    font-size: 1.8em;
+    color: white;
+}
+.subTitle {
+    font-size: .8em;
+}
+
+.resumeHeader {
+    font-size: .8em;
+    font-weight: 600;
+}
+.itemCard1 {
+}
+.itemCardTitle {
+    background-color: rgb(139, 99, 172);
+}
+.itemCardTitle-alt {
+    background-color: rgb(187, 98, 98);}
+.subItem1 {
+    background-color: rgba(123, 61, 173, 0.45);
+
+}
+.subItem1-alt {
+    background-color: rgba(192, 71, 71, 0.45);
+
+}
+.subItem2 {
+    background-color: rgba(255, 255, 255, 0.733);
+
+}
+.pageHeader {
+    font-size: 1.5em;
+    font-weight: 600;
+}
+.sectionHeader {
+    font-size: 1.5em;
+    font-weight: 600;
+}
+.sectionSubHeader {
+    font-size: 1.2em;
+    font-weight: 600;
+}
+.resumeCityDate {
+    font-size: .9em;
+    color: grey;
+}
+.bulletHeader {
+    font-size: 1.2em;
+    font-weight: 700;
+}
+.bulletSubHeader {
+    font-size: .85em;
+    font-weight: 700;
+}
+.bulletBody {
+    font-size: .9em;
+}
+.paragraphText {
+    font-size: .85em;
+    color: rgba(0, 0, 0, 0.90);
+    text-indent: 35px;
+}
+
+.container {
+    height: 100%;
+    width: 100%;
+}
+
+/* Chrome Window and it's elements */
+.bg-inactive {
+    background-color: rgb(224, 224, 224);
+}
+.chromeWindow {
+    position: relative;
+    left: 6%;
+    top: 5%;
+    height: 68%;
+    width: 95%;
+    filter: drop-shadow(1px 1px 1px rgba(0, 0, 0, 0.486));
+
+}
+
+.chromeViewPort {
+    height: 100%;
+    overflow-y: scroll;
+    background-color: rgba(255, 255, 255, 0.644);
+}
+
+.chromeView {
+    padding-left: 5px;
+    padding-right: 5px;
+    padding-top: 5px;
+    font-size: .8em;
+}
+
+.chromeTabLink {
+    font-weight: 550;
+    color: black;
+    cursor: default;
+}
+.chromeTabLink:hover {
+    font-weight: 550;
+    color: rgba(0, 0, 0, 0.5);
+    cursor: pointer;
+}
+
+.folderLinksContainer {
+    position: relative;
+    top: 5%;
+}
+
+.navigation {
+    font-size: .8em;
+    color: rgb(185, 185, 185);
+}
+.windowControlsContainer {
+    width: 10px;
+    height: 10px;
+    border: 1px solid rgba(0, 0, 0, 0.158);
+    margin-left: 5px;
+
+}
+.window-bar {
+    height: 8px;
+}
+.windowTop {
+    font-size: 6px;
+    /* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#e0e0e0+0,ffffff+46 */
+    background: #e0e0e0;
+    /* Old browsers */
+    background: -moz-linear-gradient(top, #e0e0e0 0%, #ffffff 46%);
+    /* FF3.6-15 */
+    background: -webkit-linear-gradient(top, #e0e0e0 0%, #ffffff 46%);
+    /* Chrome10-25,Safari5.1-6 */
+    background: linear-gradient(to bottom, #e0e0e0 0%, #ffffff 46%);
+    /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#e0e0e0', endColorstr='#ffffff', GradientType=0);
+    /* IE6-9 */
+}
+.windowControlIcon {
+    color: rgba(0, 0, 0, 0.61);
+}
+.controlContainer {
+    border-radius: 0px 0px 10px 0px;
+}
+.exitIcon {
+    position: relative;
+    left: 2px;
+}
+
+.miniIcon {
+    position: relative;
+    left: 1.5px;
+}
+.expIcon {
+    position: relative;
+    top: 0px;
+    left: 1.3px;
+}
+.linkContainer {
+    width: 1044px;
+}
+.projectLink-Active {
+    font-size: 1.6em;
+    background-color: white;
+}
+.projectLink-Inactive {
+    font-size: 1.6em;
+    background-color: rgba(255, 255, 255, 0.644);
+
+}
+.urlBar {
+    font-size: .60em;
+    width: 100%;
+    border-radius: 50px 50px 50px 50px;
+    margin-bottom: 5px;
+    background-color: rgba(224, 224, 224, 0.548);;
+}
+.urlLock {
+    color: rgba(0, 0, 0, 0.4);
+    position: relative;
+    top: 2.5px;
+}
+.chromeOptionsButton {
+    font-size: .7em;
+    margin-top: 14px;
+    color: rgb(119, 117, 117);
+
+}
+.verticalSeparator {
+    border-left: 1px solid rgba(0, 0, 0, 0.25);
+    height: 50%;
+    margin-top: 10px;
+}
+
+/* Chrome element end */
+
+
+.desktop {
+    background-color: rgb(105, 117, 113);
+    height: 100%;
+    position: fixed;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+}
+
+
+.folders-1 {
+    height: 65px;
+    width: 65px;
+    background-image: url("../../images/folder-icon-1.png");
+    background-size: 100% 100%;
+    filter: drop-shadow(1px 1px 1px rgba(0, 0, 0, 0.486));
+}
+
+.folders-2 {
+    height: 65px;
+    width: 65px;
+    background-image: url("../../images/folder-icon-2.png");
+    background-size: 100% 100%;
+    filter: drop-shadow(1px 1px 1px rgba(0, 0, 0, 0.486));
+}
+
+.portfolioLinks {
+    width: 65px;
+    height: 200px;
+}
+
+.extraLinks {
+    margin-right: 10px;
+}
+.folders-des {
+    height: 45px;
+    width: 45px;
+    background-image: url("../../images/design-icon.svg");
+    background-size: 100% 100%;
+    position: relative;
+    top: 44%;
+    filter: drop-shadow(1px 1px 1px rgba(0, 0, 0, 0.486));
+}
+.folders-dev {
+    height: 45px;
+    width: 45px;
+    background-image: url("../../images/coding-icon.svg");
+    background-size: 100% 100%;
+    filter: drop-shadow(1px 1px 1px rgba(0, 0, 0, 0.486));
+}
+
+.IconHover:hover, .folders-des:hover, .folders-dev:hover {
+    filter: drop-shadow(0px 0px 1px rgba(255, 255, 255, 0.685));
+    cursor: pointer;
+    animation-duration: 450ms;
+    animation-timing-function: linear;
+    animation-iteration-count: 1;
+    animation-name: wiggle;
+}
+
+@keyframes wiggle {
+    0% { transform: translate(1px, 0); }
+    10% { transform: translate(-1px, 0); }
+    20% { transform: translate(1px, 0); }
+    30% { transform: translate(-1px, 0); }
+    40% { transform: translate(1px, 0); }
+    50% { transform: translate(-1px, 0); }
+    60% { transform: translate(1px, 0); }
+    70% { transform: translate(-1px, 0); }
+    80% { transform: translate(1px, 0); }
+    90% { transform: translate(-1px, 0); }
+    100% { transform: translate(0, 0); }
+  }
+
+
+.foldertext {
+    font-size: 18px;
+    color: white;
+    position: relative;
+    top: 44%;
+}
+
+.folderLink {
+    text-align: center;
+}
