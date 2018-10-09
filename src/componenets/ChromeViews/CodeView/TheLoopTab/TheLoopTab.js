@@ -23,6 +23,9 @@ class TheLoopTab extends Component {
                 <p>
                   The purpose of this application is to help people build credibility as they navigate through their professional life.
               </p>
+              <p>
+                  This project is still under development, and is scheduled for public release this winter.
+              </p>
               </div>
               <div className="col-md-6 col-lg-6 col-xl-6">
               <h6>
