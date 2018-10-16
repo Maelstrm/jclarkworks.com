@@ -7,12 +7,12 @@ class TheLoopTab extends Component {
         <div className="card p-2 shadow">
           <div className="p-1 mb-2 pageTitle bg-info text-right">
             <span className="text-warning">..get in
-        </span>
+            </span>
             <span className=" mr-5 text-warning myLogo">The L∞p
-        </span>
+            </span>
           </div>
 
-          <div><img src="./images/CodeView/TheLoopTab/c1.jpg" className="img-thumbnail float-left col-12" /></div>
+          <div><img alt="TheLoop" src="./images/CodeView/TheLoopTab/c1.jpg" className="img-thumbnail float-left col-12" /></div>
 
           <div>
             <div className="border contentContainer shadow-sm roundedp-2 mb-2 p-2 row">
@@ -62,8 +62,8 @@ class TheLoopTab extends Component {
               <div className="text-muted">
                 Sample Screenshots
             </div>
-              <img src="./images/CodeView/TheLoopTab/02.png" className="img-thumbnail float-left p-3 col-6 col-sm-6" />
-              <img src="./images/CodeView/TheLoopTab/01.png" className="img-thumbnail float-left p-3 col-6 col-sm-6" />
+              <img alt="TheLoop" src="./images/CodeView/TheLoopTab/02.png" className="img-thumbnail float-left p-3 col-6 col-sm-6" />
+              <img alt="TheLoop" src="./images/CodeView/TheLoopTab/01.png" className="img-thumbnail float-left p-3 col-6 col-sm-6" />
             </div>
           </div>
           <div>
@@ -71,8 +71,8 @@ class TheLoopTab extends Component {
               <div className="text-muted">
                 Sample Wireframes
             </div>
-              <img src="./images/CodeView/TheLoopTab/04.png" className="img-thumbnail float-left col-6 col-sm-6" />
-              <img src="./images/CodeView/TheLoopTab/05.png" className="img-thumbnail float-left col-6 col-sm-6" />
+              <img alt="TheLoop" src="./images/CodeView/TheLoopTab/04.png" className="img-thumbnail float-left col-6 col-sm-6" />
+              <img alt="TheLoop" src="./images/CodeView/TheLoopTab/05.png" className="img-thumbnail float-left col-6 col-sm-6" />
             </div>
           </div>
           <div>
@@ -87,8 +87,8 @@ class TheLoopTab extends Component {
               <div className="text-muted">
                 In-progress shots
             </div>
-              <img src="./images/CodeView/TheLoopTab/p1.jpg" className="img-thumbnail float-left col-md-6" />
-              <img src="./images/CodeView/TheLoopTab/p2.jpg" className="img-thumbnail float-left col-md-6" />
+              <img alt="TheLoop" src="./images/CodeView/TheLoopTab/p1.jpg" className="img-thumbnail float-left col-md-6" />
+              <img alt="TheLoop" src="./images/CodeView/TheLoopTab/p2.jpg" className="img-thumbnail float-left col-md-6" />
             </div>
           </div>
 

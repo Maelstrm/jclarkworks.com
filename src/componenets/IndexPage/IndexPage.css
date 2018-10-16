@@ -25,8 +25,6 @@ hr {
     font-size: .8em;
     font-weight: 600;
 }
-.itemCard1 {
-}
 .itemCardTitle {
     background-color: rgb(139, 99, 172);
 }
@@ -174,7 +172,7 @@ hr {
     left: 1.3px;
 }
 .linkContainer {
-    width: 1044px;
+    width: 100%
 }
 .projectLink-Active {
     font-size: 1.6em;
@@ -213,7 +211,15 @@ hr {
 
 
 .desktop {
-    background-color: rgb(105, 117, 113);
+    background-color: black;
+    /* The image used */
+    background-image: url("../../images/mainBackground.jpg");
+
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+
     height: 100%;
     position: fixed;
     top: 0;

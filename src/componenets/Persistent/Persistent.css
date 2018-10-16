@@ -17,13 +17,14 @@ a:hover {
 .Header-Text {
     color: white;
     font-size: .8em;
+    font-weight: 600;
 }
 
 .top-bar {
     height: 24px;
     padding-top: 2px;
     filter: drop-shadow(0px 1px 1px rgba(0, 0, 0, 0.671));
-
+    background-color: rgba(0, 0, 0, 0.192);
 }
 
 .framework-label {

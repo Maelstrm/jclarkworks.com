@@ -6,13 +6,13 @@ class ImpactHubTab extends Component {
       <div className="chromeView">
         <div className="card p-2 shadow">
 
-          <div><img src="./images/CodeView/ImpactHubTab/l1.jpg" className="img-thumbnail float-left col-12" /></div>
+          <div><img alt="Impact Hub" src="./images/CodeView/ImpactHubTab/l1.jpg" className="img-thumbnail float-left col-12" /></div>
 
           <div>
-            <div><img src="./images/CodeView/ImpactHubTab/01.jpg" className="img-thumbnail float-left col-12" /></div>
+            <div><img alt="Impact Hub" src="./images/CodeView/ImpactHubTab/01.jpg" className="img-thumbnail float-left col-12" /></div>
 
             <div className="border contentContainer shadow-sm roundedp-2 mb-2 p-2">
-              <img src="./images/CodeView/ImpactHubTab/l2.jpg" className="float-left mt-2 col-6" />
+              <img alt="Impact Hub" src="./images/CodeView/ImpactHubTab/l2.jpg" className="float-left mt-2 col-6" />
               <p>
                 Currently I am working with a team to develop an application for Impact Hub, Minneapolis.
               </p>
@@ -33,13 +33,13 @@ class ImpactHubTab extends Component {
               <div className="text-muted">
                 Sample wireframe and user-flow chart
             </div>
-              <img src="./images/CodeView/ImpactHubTab/p1.png" className="img-thumbnail float-right col-md-12 bg-dark" />
+              <img alt="Impact Hub" src="./images/CodeView/ImpactHubTab/p1.png" className="img-thumbnail float-right col-md-12 bg-dark" />
             </div>
           </div>
 
           <div>
             <div className="border contentContainer p-2 rounded">
-              <img src="./images/CodeView/ImpactHubTab/p2.png" className="img-thumbnail float-right col-md-12 bg-dark" />
+              <img alt="Impact Hub" src="./images/CodeView/ImpactHubTab/p2.png" className="img-thumbnail float-right col-md-12 bg-dark" />
             </div>
           </div>
 

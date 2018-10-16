@@ -8,7 +8,7 @@ class Header extends Component {
 
     render() {
         return (
-            <div className="top-bar fixed-top bg-dark text-light d-flex justify-content-between Header-Text">
+            <div className="fixed-top bg-dark text-light d-flex justify-content-between Header-Text top-bar">
                 <span className="justify-contents-start col-5 d-flex">
                     <span className="mr-3">
                         <i className="fab fa-apple"></i>

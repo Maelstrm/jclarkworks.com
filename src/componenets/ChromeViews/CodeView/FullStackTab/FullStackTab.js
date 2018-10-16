@@ -34,7 +34,7 @@ class FullStackTab extends Component {
 
           <div className="card p-1 mt-2 rounded  shadow-sm">
             <div>
-              I develop software with a trained eye for User Experience. I believedesign and software engineering both require a great deal of empathy and keeping the end-user in mind.
+              I develop software with a trained eye for User Experience. I believe design and software engineering both require a great deal of empathy. Both Engineering and Design are about people.
             </div>
           </div>
 
